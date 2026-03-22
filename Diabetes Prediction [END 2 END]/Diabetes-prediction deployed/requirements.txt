@@ -4,9 +4,9 @@ itsdangerous==2.1.2
 Jinja2==3.1.4
 MarkupSafe==2.1.5
 Werkzeug==2.2.3
-numpy==1.19.5
-scipy==1.4.1
-scikit-learn==0.22.2.post1
-matplotlib==3.3.4
-pandas==1.1.5
-python-dateutil==2.8.2
+
+numpy==1.23.5
+scipy==1.10.1
+scikit-learn==1.2.2
+matplotlib==3.7.1
+pandas==1.5.3
